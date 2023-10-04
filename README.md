@@ -47,3 +47,29 @@ HUAWEI
         </main>
     </body>
 </html>
+body {
+    font-family: sans-serif;
+}
+
+table {
+    border: 1px solid rgb(17, 0, 255);
+    font-size: 20px;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid rgb(255, 0, 0);
+}
+
+tr:first-child {
+    background-color: rgb(0, 255, 128);
+}
+
+td:first-child {
+    background-color: rgb(51, 255, 0);
+}
+
+selector {
+    background-color: rgb(255, 0, 0);
+}
